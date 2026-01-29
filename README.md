@@ -24,3 +24,8 @@ npm run dev
 | `search-person`        | Search for a person across all indexes |
 | `get-emails`           | Search emails by filters               |
 | `show-emails` (**UI**) | Display emails in an email client UI   |
+
+## Screenshots
+
+<img src="media/tool-use-overview.png" />
+<img src="media/email-detail.png" />
